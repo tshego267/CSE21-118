@@ -1,0 +1,29 @@
+header{
+	height: 15%;
+	width: 90%;
+	margin-top: 20px;
+	margin-left: 10px;
+	}
+
+nav{
+	width : 90%;
+	height: 20%;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+article {
+ width: 90%;
+ height: 50%;
+ float: left;
+ margin-top: 20px;
+ margin-left: 10px;
+}
+
+footer{
+	height: 25%;
+	width : 90%;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
